@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Tensyoku-Kaigi Honest Stars",
+  "description": "Display Tensyoku-Kaigi Stars in Honest Scale",
+  "version": "0.0.1",
+  "permissions": [
+    "tabs",
+    "http://jobtalk.jp/company/*_graph.html"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://jobtalk.jp/company/*_graph.html"],
+      "js": ["myscript.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
