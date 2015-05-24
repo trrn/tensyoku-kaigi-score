@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Tensyoku-Kaigi Honest Stars",
-  "description": "Display Tensyoku-Kaigi Stars in Honest Scale",
+  "name": "Tensyoku-Kaigi Scores Dishonest Stars",
+  "description": "Display Tensyoku-Kaigi Scores Dishonest Scale",
   "version": "0.0.1",
   "permissions": [
     "tabs",
