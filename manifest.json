@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Tensyoku-Kaigi Scores Dishonest Stars",
   "description": "Display Tensyoku-Kaigi Scores Dishonest Scale",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "permissions": [
     "tabs",
     "http://jobtalk.jp/company/*_graph.html"
